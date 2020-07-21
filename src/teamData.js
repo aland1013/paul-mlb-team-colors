@@ -196,7 +196,7 @@ export const teamData = [
     logo: angelsLogo,
     primaryColor: '#BA0021',
     secondaryColor: '#003263',
-    accentColor: '#C4CEd4'
+    accentColor: '#C4CED4'
   },
   {
     id: 'MIN',
