@@ -92,7 +92,6 @@ const TeamFrame = ({ selectedTeam }) => {
               </Typography>
             </Grid>
           ) : null}
-          }
         </Grid>
       </Grid>
     </div>
